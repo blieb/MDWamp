@@ -10,7 +10,8 @@
     "license": "Apache 2.0",
     "platforms": {
         "osx": "10.7",
-        "ios": "6.1"
+        "ios": "6.1",
+        "tvos": "9.0"
     },
     "source_files": "MDWamp/**/*.{h,m,c}",
     "ios": {
